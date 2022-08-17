@@ -1,3 +1,6 @@
 .avatar {
     width: 317px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 44px;
 }
