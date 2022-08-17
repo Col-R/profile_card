@@ -3,14 +3,13 @@
 }
 
 body {
-  width: 550px;
+  width: 317px;
   display: block;
   margin: 0 auto;
   font-family: Inter, sans-serif;
   background-color: #23252C;
-  border: 1px solid black;
 }
 
 .App {
-  background-color: #F5F5F5;
+  background-color: #23252C;
 }

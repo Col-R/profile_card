@@ -1,6 +1,11 @@
 .avatar {
-    width: 317px;
+    width: 100%;
     display: block;
     margin: 0 auto;
-    padding-top: 44px;
+
+    border-radius: 10px 10px 0px 0px;
+}
+
+.avatar__background {
+    background: #23252C;
 }

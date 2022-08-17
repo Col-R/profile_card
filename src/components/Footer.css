@@ -1,5 +1,19 @@
 .footer {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+
+    background-color: #D5D4D8;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.footer__icon {
+    margin: 20px auto 20px auto;
+}
+
+.footer__icon__left {
+    margin-left: 48px;
+}
+.footer__icon__right {
+    margin-right: 48px;
 }
