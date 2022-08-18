@@ -23,9 +23,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Try this out yourself!
-Clone this repository
-In the root folder run `npm install` to install the dependencies.
-Then use `npm start`
+Clone this repository \
+In the root folder run `npm install` to install the dependencies.\
+Then use `npm start`\
 The website should open on http://localhost:3000
 
 ## Live Site
