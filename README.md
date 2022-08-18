@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 I built this as an afternoon challenge for myself using React and vanilla CSS. It's a simple, static social media profile page for the GOAT, Michael Jordan
 
 ## Technologies Used
-React - version 18.2
-HTML5
-CSS3
+* React - version 18.2
+* HTML5
+* CSS3
 
 ## Available Scripts
 

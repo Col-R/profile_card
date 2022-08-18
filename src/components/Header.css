@@ -41,7 +41,7 @@
     text-decoration: none;
 }
 
-#header_email {
+#header_button {
     border: 1px solid #D1D5DB 300;
     display: flex;
     flex-direction: row;
